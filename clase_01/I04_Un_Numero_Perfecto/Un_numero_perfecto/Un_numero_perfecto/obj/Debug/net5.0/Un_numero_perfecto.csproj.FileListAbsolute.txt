@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\bin\Debug\net5.0\Un_numero_perfecto.exe
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\bin\Debug\net5.0\Un_numero_perfecto.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\bin\Debug\net5.0\Un_numero_perfecto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\bin\Debug\net5.0\Un_numero_perfecto.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\bin\Debug\net5.0\Un_numero_perfecto.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\bin\Debug\net5.0\Un_numero_perfecto.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\refint\Un_numero_perfecto.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\Un_numero_perfecto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I04_Un_Numero_Perfecto\Un_numero_perfecto\Un_numero_perfecto\obj\Debug\net5.0\ref\Un_numero_perfecto.dll
