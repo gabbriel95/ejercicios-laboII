@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Los_Primos/1.0.0": {
+        "runtime": {
+          "Los_Primos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Los_Primos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

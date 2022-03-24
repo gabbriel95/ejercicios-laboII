@@ -19,44 +19,55 @@ namespace Los_primos
             short numeroIngresado;
             string respuesta;
 
+
             int n = 2;
             int total = 2;
             bool esPrimo;
 
             do
             {
-                Console.WriteLine("Ingrese un numero");
+                do
+                {
+                    Console.WriteLine("Ingrese un numero");
+                    respuesta = Console.ReadLine();
+
+                    if (respuesta == "salir" || respuesta == "SALIR" || respuesta == "Salir")
+                    {
+                        Environment.Exit(0);
+                    }
+
+                } while (!short.TryParse(respuesta, out numeroIngresado));
+
+
+                while (total <= numeroIngresado)
+                {
+                    esPrimo = true;
+
+                    for (int i = 2; i < n; i++)
+                    {
+                        if (n % i == 0)
+                        {
+                            esPrimo = false;
+                            break;
+                        }
+                    }
+
+                    if (esPrimo)
+                    {
+                        Console.WriteLine(n);
+
+                    }
+                    total++;
+                    n++;
+                }
+
+
+                Console.WriteLine("Desea volver a operar? [S/N]");
                 respuesta = Console.ReadLine();
 
-                if (respuesta == "salir" || respuesta == "SALIR" || respuesta == "Salir")
-                {
-                    Environment.Exit(0);
-                }
+            } while (respuesta == "s" || respuesta == "S");
+           
 
-            } while (!short.TryParse(respuesta, out numeroIngresado));
-
-
-            while (total <= numeroIngresado)
-            {
-                esPrimo = true;
-
-                for (int i = 2; i < n; i++)
-                {
-                    if (n % i == 0)
-                    {
-                        esPrimo = false;
-                        break;
-                    }
-                }
-
-                if (esPrimo)
-                {
-                    Console.WriteLine(n);
-
-                }
-                total++;
-                n++;
-            }
 
 
         }
