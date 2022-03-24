@@ -28,7 +28,7 @@ namespace Los_primos
                 Console.WriteLine("Ingrese un numero");
                 respuesta = Console.ReadLine();
 
-                if (respuesta == "salir" || respuesta == "SALIR" || respuesta == "Salir") 
+                if (respuesta == "salir" || respuesta == "SALIR" || respuesta == "Salir")
                 {
                     Environment.Exit(0);
                 }
@@ -36,20 +36,20 @@ namespace Los_primos
             } while (!short.TryParse(respuesta, out numeroIngresado));
 
 
-            while (total <= numeroIngresado) 
+            while (total <= numeroIngresado)
             {
                 esPrimo = true;
 
-                for (int i = 2; i < n; i++) 
+                for (int i = 2; i < n; i++)
                 {
-                    if (n % i == 0) 
+                    if (n % i == 0)
                     {
                         esPrimo = false;
                         break;
                     }
                 }
 
-                if (esPrimo) 
+                if (esPrimo)
                 {
                     Console.WriteLine(n);
 
@@ -58,7 +58,7 @@ namespace Los_primos
                 n++;
             }
 
-            
+
         }
     }
 }
