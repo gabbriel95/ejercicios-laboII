@@ -20,12 +20,12 @@ namespace Los_primos
             string respuesta;
 
 
-            int n = 2;
-            int total = 2;
+            int numeroPrimo;
             bool esPrimo;
 
             do
             {
+                numeroPrimo = 2;
                 do
                 {
                     Console.WriteLine("Ingrese un numero");
@@ -39,13 +39,13 @@ namespace Los_primos
                 } while (!short.TryParse(respuesta, out numeroIngresado));
 
 
-                while (total <= numeroIngresado)
+                while (numeroPrimo <= numeroIngresado)
                 {
                     esPrimo = true;
 
-                    for (int i = 2; i < n; i++)
+                    for (int i = 2; i < numeroPrimo; i++)
                     {
-                        if (n % i == 0)
+                        if (numeroPrimo % i == 0)
                         {
                             esPrimo = false;
                             break;
@@ -54,11 +54,10 @@ namespace Los_primos
 
                     if (esPrimo)
                     {
-                        Console.WriteLine(n);
+                        Console.WriteLine(numeroPrimo);
 
                     }
-                    total++;
-                    n++;
+                    numeroPrimo++;
                 }
 
 
@@ -67,9 +66,6 @@ namespace Los_primos
 
             } while (respuesta == "s" || respuesta == "S");
            
-
-
-
         }
     }
 }
