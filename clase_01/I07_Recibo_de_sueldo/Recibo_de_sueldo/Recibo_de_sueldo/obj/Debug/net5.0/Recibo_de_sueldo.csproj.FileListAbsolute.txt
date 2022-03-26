@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\bin\Debug\net5.0\Recibo_de_sueldo.exe
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\bin\Debug\net5.0\Recibo_de_sueldo.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\bin\Debug\net5.0\Recibo_de_sueldo.runtimeconfig.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\bin\Debug\net5.0\Recibo_de_sueldo.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\bin\Debug\net5.0\Recibo_de_sueldo.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\bin\Debug\net5.0\Recibo_de_sueldo.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\refint\Recibo_de_sueldo.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\Recibo_de_sueldo.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I07_Recibo_de_sueldo\Recibo_de_sueldo\Recibo_de_sueldo\obj\Debug\net5.0\ref\Recibo_de_sueldo.dll

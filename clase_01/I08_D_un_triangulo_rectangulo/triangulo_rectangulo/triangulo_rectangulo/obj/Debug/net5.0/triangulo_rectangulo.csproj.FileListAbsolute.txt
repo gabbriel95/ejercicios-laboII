@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\bin\Debug\net5.0\triangulo_rectangulo.exe
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\bin\Debug\net5.0\triangulo_rectangulo.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\bin\Debug\net5.0\triangulo_rectangulo.runtimeconfig.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\bin\Debug\net5.0\triangulo_rectangulo.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\bin\Debug\net5.0\triangulo_rectangulo.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\bin\Debug\net5.0\triangulo_rectangulo.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\refint\triangulo_rectangulo.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\triangulo_rectangulo.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I08_D_un_triangulo_rectangulo\triangulo_rectangulo\triangulo_rectangulo\obj\Debug\net5.0\ref\triangulo_rectangulo.dll

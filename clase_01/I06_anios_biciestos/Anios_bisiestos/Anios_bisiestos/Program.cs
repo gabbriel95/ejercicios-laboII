@@ -23,7 +23,7 @@ namespace Anios_bisiestos
             do
             {
                 do
-                {  
+                {
                     Console.WriteLine("Ingrese el año de inicio");
                     inicioString = Console.ReadLine();
 
@@ -33,22 +33,22 @@ namespace Anios_bisiestos
 
                 } while (!int.TryParse(inicioString, out inicio) || !int.TryParse(finalSting, out final));
 
-                if (inicio > final) 
+                if (inicio > final)
                 {
                     Console.WriteLine("ERROR!. La fecha inicial es mayor a la fecha final.");
                     repetir = true;
-                } 
+                }
 
             } while (repetir);
 
-            while (inicio <= final) 
+            while (inicio <= final)
             {
                 if (inicio % 4 == 0 && (!(inicio % 100 == 0) || (inicio % 400 == 0)))
                 {
-                 
-                        contadorAñosBiciestos++;
-                        Console.WriteLine($"{inicio} es año biciesto");         
-                       
+
+                    contadorAñosBiciestos++;
+                    Console.WriteLine($"{inicio} es año biciesto");
+
                 }
 
                 inicio = inicio + 4;

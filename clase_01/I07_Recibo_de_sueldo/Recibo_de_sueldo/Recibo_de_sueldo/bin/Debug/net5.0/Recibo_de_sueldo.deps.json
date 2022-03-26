@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Recibo_de_sueldo/1.0.0": {
+        "runtime": {
+          "Recibo_de_sueldo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recibo_de_sueldo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

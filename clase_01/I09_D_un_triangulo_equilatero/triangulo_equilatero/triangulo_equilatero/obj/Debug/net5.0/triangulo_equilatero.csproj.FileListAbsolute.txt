@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\bin\Debug\net5.0\triangulo_equilatero.exe
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\bin\Debug\net5.0\triangulo_equilatero.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\bin\Debug\net5.0\triangulo_equilatero.runtimeconfig.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\bin\Debug\net5.0\triangulo_equilatero.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\bin\Debug\net5.0\triangulo_equilatero.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\bin\Debug\net5.0\triangulo_equilatero.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\refint\triangulo_equilatero.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\triangulo_equilatero.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I09_D_un_triangulo_equilatero\triangulo_equilatero\triangulo_equilatero\obj\Debug\net5.0\ref\triangulo_equilatero.dll
