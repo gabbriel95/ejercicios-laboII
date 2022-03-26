@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\bin\Debug\net5.0\Anios_bisiestos.exe
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\bin\Debug\net5.0\Anios_bisiestos.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\bin\Debug\net5.0\Anios_bisiestos.runtimeconfig.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\bin\Debug\net5.0\Anios_bisiestos.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\bin\Debug\net5.0\Anios_bisiestos.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\bin\Debug\net5.0\Anios_bisiestos.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\refint\Anios_bisiestos.dll
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.pdb
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\Anios_bisiestos.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\ejercicios\clase_01\I06_anios_biciestos\Anios_bisiestos\Anios_bisiestos\obj\Debug\net5.0\ref\Anios_bisiestos.dll
