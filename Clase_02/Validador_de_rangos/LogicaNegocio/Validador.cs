@@ -2,7 +2,7 @@
 
 namespace LogicaNegocio
 {
-    public static class Rangos
+    public static class Validador
     {
         public static bool Validar(int valor, int min, int max) {
 

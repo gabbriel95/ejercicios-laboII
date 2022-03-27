@@ -19,7 +19,7 @@ namespace Validador_de_rangos
                 {
                     numeroIngresado = PedirNumero();
                   
-                } while (!LogicaNegocio.Rangos.Validar(numeroIngresado, -100, 100));
+                } while (!LogicaNegocio.Validador.Validar(numeroIngresado, -100, 100));
 
                 if (i == 0)
                 {

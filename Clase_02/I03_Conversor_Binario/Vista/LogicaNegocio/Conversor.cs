@@ -40,18 +40,18 @@ namespace LogicaNegocio
             string numeroString = numeroEntero.ToString();
             int numeroIndividual;
             double multiplicador = 0;
-            double acumulador = 0;
+            int acumulador = 0;
 
             for (int i = 0; i < numeroString.Length; i++)
             {
                 int.TryParse(numeroString.Substring(i, 1), out numeroIndividual);
                 multiplicador = Math.Pow(2, (numeroString.Length-1)-i);
-                acumulador += multiplicador * numeroIndividual;
+                acumulador += Convert.ToInt32(multiplicador * numeroIndividual);
             }
-                Console.WriteLine($"{acumulador}");
+       
 
 
-            return numeroDecimal;
+            return acumulador;
         }
     }
 }
