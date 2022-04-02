@@ -20,7 +20,7 @@ namespace triangulo_equilatero
                 Console.WriteLine("Ingrese un numero");
                 alturaString = Console.ReadLine();
 
-            } while (!int.TryParse(alturaString, out altura) || altura > 55;
+            } while (!int.TryParse(alturaString, out altura) || altura > 55);
 
 
             for (int i = 1; i < altura; i++)

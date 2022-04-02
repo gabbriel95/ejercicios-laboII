@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Gabriel\Desktop\ejercicios\Clase_02\I08_El_Tiempo_Pasa\Vista\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
