@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invento_Argentino", "Invento_Argentino\Invento_Argentino.csproj", "{CDD51735-B28C-4ED7-8A7E-FF9E6BF04175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{3BF142F0-23E2-4835-A05B-AD3D9BBD85AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD51735-B28C-4ED7-8A7E-FF9E6BF04175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD51735-B28C-4ED7-8A7E-FF9E6BF04175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD51735-B28C-4ED7-8A7E-FF9E6BF04175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD51735-B28C-4ED7-8A7E-FF9E6BF04175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF142F0-23E2-4835-A05B-AD3D9BBD85AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF142F0-23E2-4835-A05B-AD3D9BBD85AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF142F0-23E2-4835-A05B-AD3D9BBD85AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF142F0-23E2-4835-A05B-AD3D9BBD85AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBAA1B24-98B5-4365-A63A-C13EC7EBC053}
+	EndGlobalSection
+EndGlobal

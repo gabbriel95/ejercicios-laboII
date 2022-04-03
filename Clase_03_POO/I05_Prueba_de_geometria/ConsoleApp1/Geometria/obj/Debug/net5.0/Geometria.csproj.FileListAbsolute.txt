@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\bin\Debug\net5.0\Geometria.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\bin\Debug\net5.0\Geometria.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\bin\Debug\net5.0\Geometria.pdb
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\Geometria.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\Geometria.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\refint\Geometria.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\Geometria.pdb
+C:\Users\Gabriel\Desktop\ejercicios\Clase_03_POO\I05_Prueba_de_geometria\ConsoleApp1\Geometria\obj\Debug\net5.0\ref\Geometria.dll
