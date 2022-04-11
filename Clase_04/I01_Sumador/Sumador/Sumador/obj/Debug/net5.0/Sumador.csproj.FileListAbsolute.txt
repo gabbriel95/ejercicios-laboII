@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\bin\Debug\net5.0\Sumador.deps.json
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\bin\Debug\net5.0\Sumador.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\bin\Debug\net5.0\Sumador.pdb
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\Sumador.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\Sumador.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\Sumador.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\Sumador.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\Sumador.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\refint\Sumador.dll
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\Sumador.pdb
+C:\Users\Gabriel\Desktop\ejercicios\Clase_04\I01_Sumador\Sumador\Sumador\obj\Debug\net5.0\ref\Sumador.dll
